@@ -1132,4 +1132,4 @@ Humanizer.jvm meets all your jvm needs for manipulating and displaying strings, 
 Humanizer is released under the MIT License. See the [bundled LICENSE](https://github.com/Humanizr/Humanizer/blob/master/LICENSE) file for details.
 
 ## <a id="icon">Icon</a>
-Icon created by [Tyrone Rieschiek](https://twitter.com/Inkventive)
+Icon created by [Inkventive](http://inkventive.com)
